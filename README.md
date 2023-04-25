@@ -144,7 +144,7 @@ Feel free to check the [issues page](https://github.com/mrkamin/School-Library-R
 
  ## ⭐️ Show your support <a name="support"></a> 
 
-If you like this project, Please give it a ⭐️
+If you like this project, Please give it a ⭐️⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
