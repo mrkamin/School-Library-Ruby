@@ -26,7 +26,7 @@ class App
   def create_rental(book_id, person_id, date)
     person = find_person(person_id)
 
-    @rentals << Rental.new(@books[book_id], person[:data], date)
+    @rentals << Rental.new(@books[book_id], @people[person_id], date)
   end
 
   def list_people

@@ -57,7 +57,7 @@ def create_rental(library)
   print 'Enter Date: '
   date = gets.chomp
 
-  library.create_rental(book_id - 1, person_id, date)
+  
 
   puts 'Rental created Suceefully!!'
   user_choice(library)
