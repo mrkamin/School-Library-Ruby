@@ -1,6 +1,5 @@
 class Menu
-
-def menu
+  def menu
     puts 'Please choose an option by entering a number:'
     puts '1 - List all Books.'
     puts '2 - List all People.'
@@ -29,4 +28,3 @@ def menu
     end
   end
 end
- 
