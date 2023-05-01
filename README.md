@@ -100,6 +100,11 @@ To run tests, run the following command:
 - Twitter: [@twitterhandle](https://twitter.com/Mohamma63974237)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-rafi-amin-63b4319b/)
 
+👤 **Henschel Nketchogue M.**
+
+- GitHub: [miltonHenschel](https://github.com/miltonHenschel)
+- LinkedIn: [miltonhenschel](https://www.linkedin.com/in/miltonhenschel/)
+- Twitter: [nketchogue](https://twitter.com/nketchogue)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
