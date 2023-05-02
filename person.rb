@@ -3,7 +3,7 @@ require './captalize_decorate'
 require './trimmer_decorate'
 
 class Person < Nameable
-  attr_accessor :name, :age, :rentals
+  attr_accessor :name, :age, :rentals, :parent_permission
   attr_reader :id
 
   def initialize(age, name, parent_permission)
@@ -34,9 +34,16 @@ class Person < Nameable
   end
 end
 
-person = Person.new(22, 'maximilianus', true)
-puts person.correct_name
-capitalized_person = CapitalizeDecorator.new(person)
-puts capitalized_person.correct_name
-capitalized_trimmed_person = TrimmerDecorator.new(capitalized_person)
-puts capitalized_trimmed_person.correct_name
+# person = Person.new(22, 'maximilianus', true)
+# puts person.correct_name
+# capitalized_person = CapitalizeDecorator.new(person)
+# puts capitalized_person.correct_name
+# capitalized_trimmed_person = TrimmerDecorator.new(capitalized_person)
+# puts capitalized_trimmed_person.correct_name
+
+# person = Person.new(23, 'Francis', true)
+# puts person.correct_name
+# capitalized_person = CapitalizeDecorator.new(person)
+# puts capitalized_person.correct_name
+# capitalized_trimmed_person = TrimmerDecorator.new(capitalized_person)
+# puts capitalized_trimmed_person.correct_name
