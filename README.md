@@ -106,6 +106,12 @@ To run tests, run the following command:
 - LinkedIn: [miltonhenschel](https://www.linkedin.com/in/miltonhenschel/)
 - Twitter: [nketchogue](https://twitter.com/nketchogue)
 
+
+👤 **Francis Uche .**
+
+- GitHub: [francis3400](https://github.com/francis3400)
+- LinkedIn: [francis-uche](https://www.linkedin.com/in/francis-uche/)
+- Twitter: [francisblinkz](https://twitter.com/francisblinkz)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
