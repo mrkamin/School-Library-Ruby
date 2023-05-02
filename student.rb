@@ -1,4 +1,4 @@
-require_relative './person'
+require './person'
 
 class Student < Person
   attr_reader :classroom
@@ -8,12 +8,12 @@ class Student < Person
     @classroom = classroom
   end
 
-  def modify_classroom(classroom)
-    @classroom = classroom
-    classroom.students.push(self) unless classroom.students.include?(self)
+  def paly_hooky
+    '¯(ツ)/¯'
   end
 
-  def play_hooky
-    '¯(ツ)/¯'
+  def classroom=(classroom)
+    @classroom = classroom
+    classroom.students.push(self) unless classroom.students.include?(self)
   end
 end
