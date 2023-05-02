@@ -1,4 +1,3 @@
-
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -30,6 +29,16 @@
 # 📖 School-Library-Ruby <a name="about-project"></a>
 
 > This is an app built with ruby that allows you to Add new students or teachers, Add new books, Save records of who borrowed a given book and when.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Backend</summary>
+  <br />
+  <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white" alt="ruby" />
+</details>
 
 ### Key Features <a name="key-features"></a>
 
@@ -100,7 +109,18 @@ To run tests, run the following command:
 - Twitter: [@twitterhandle](https://twitter.com/Mohamma63974237)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-rafi-amin-63b4319b/)
 
+👤 **Henschel Nketchogue M.**
 
+- GitHub: [miltonHenschel](https://github.com/miltonHenschel)
+- LinkedIn: [miltonhenschel](https://www.linkedin.com/in/miltonhenschel/)
+- Twitter: [nketchogue](https://twitter.com/nketchogue)
+
+
+👤 **Francis Uche .**
+
+- GitHub: [francis3400](https://github.com/francis3400)
+- LinkedIn: [francis-uche](https://www.linkedin.com/in/francis-uche/)
+- Twitter: [francisblinkz](https://twitter.com/francisblinkz)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
