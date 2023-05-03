@@ -28,7 +28,8 @@
 
 # 📖 School-Library-Ruby <a name="about-project"></a>
 
-> This is an app built with ruby that allows you to Add new students or teachers, Add new books, Save records of who borrowed a given book and when.
+> This is an app built with ruby that allows you to Add new students or teachers, Add new books, Save records of who borrowed a given book and when
+returned
 
 ## 🛠 Built With <a name="built-with"></a>
 
