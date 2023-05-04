@@ -22,23 +22,23 @@ describe 'Student' do
   before :each do
     @student = Student.new 0, 17, 'Milton', true
   end
-  describe "#new" do
-    it "takes three parameters and returns a Student object" do
+  describe '#new' do
+    it 'takes three parameters and returns a Student object' do
       expect(@student).to be_an_instance_of Student
     end
   end
-  describe "#age" do
-    it "returns the correct age" do
+  describe '#age' do
+    it 'returns the correct age' do
       expect(@student.age).to eq(17)
     end
   end
-  describe "#name" do
-    it "returns the correct name" do
+  describe '#name' do
+    it 'returns the correct name' do
       expect(@student.name).to eq('Milton')
     end
   end
-  describe "#parent_permission" do
-    it "returns the correct parent permission" do
+  describe '#parent_permission' do
+    it 'returns the correct parent permission' do
       expect(@student.parent_permission).to eq(true)
     end
   end
